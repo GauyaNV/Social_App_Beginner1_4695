@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My 1st post",
+      "datetime": "july 1st 2021",
+      "body": "Made a video1 for a Long time no see"
+    },
+    {
+      "id": "2",
+      "title": "My 21st post",
+      "datetime": "January 21,2025 9:22:01 AM",
+      "body": "Made a video2 67"
+    },
+    {
+      "id": "21",
+      "title": "axios",
+      "datetime": "January 21,2025 9:22:16 AM",
+      "body": "sd"
+    },
+    {
+      "id": "211",
+      "title": "Finally Leart React Basics",
+      "datetime": "January 21,2025 4:53:43 PM",
+      "body": "Context and UseContext API - Bring all paramaters in components and its methods in a function under context folder and name it has DataContext.js..\nAnd add <DataProvider> component and import the Datacontext class in App.js then remove all paramters in all components and keep it in datacontext.js file.\nAxios API - Default methods For GET,POST,PUT,PATCH and DELETE methods in API. Its uses JSON to store and retrive data.\nnpm JSON server - Similar to Axios API but need to set the header, body and content for it.\nUseParam - To get the Id from URL in component\nUseState and UseEffect , UseRef \nRouter V6\nControlled Inputs, props,prop drilling and Components, JSX"
+    }
+  ]
+}
